@@ -1,0 +1,11 @@
+.divlogo{
+    background-color: black;
+    width: 100%;
+    height: 74px;
+    text-align: center;
+}
+.escrita{
+    color: white;
+    font-family: "Titulo";
+    padding: 15px;
+}

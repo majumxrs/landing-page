@@ -1,0 +1,24 @@
+.divmaior{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+.caixa1{
+    width: 60%;
+    height: 500px;
+    text-align: left;
+    margin-top: -213px;
+}
+.caixa2{
+    width: 40%;
+    height: 800px;
+}
+.caixa2 img{
+    width: 90%;
+}
+.Botao{
+    background-color: black;
+    color: white;
+}
+

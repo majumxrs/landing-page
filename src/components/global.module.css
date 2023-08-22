@@ -1,0 +1,17 @@
+body, div, h1,img{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: "Titulo";
+    src: url("fontes/Imperial_Script/ImperialScript-Regular.ttf");
+}
+@font-face{
+    font-family: "Promo";
+    src: url("/src/components/fontes/Iceland/Iceland-Regular.ttf");
+}
+@font-face{
+    font-family: "Escrita";
+    src: url("/src/components/fontes/Habibi/Habibi-Regular.ttf");
+}
